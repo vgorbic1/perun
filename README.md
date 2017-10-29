@@ -1,10 +1,18 @@
-# BTHosting Foundation Template
+# Perun
+A Foundation front-end website theme.
 
-Web hosting template built with Foundation-cli and Sass
+![http://perun.gorbich.com](http://perun.gorbich.com/img/demo.jpg)
 
-## Installation
+## Demo
+[perun.gorbich.com](http://hyperbola.gorbich.com)
 
-To use this template, your computer needs:
+## Description
+Perun is a front-end theme created from a mock-up. The theme is created with Foundation CSS framework and Sass.
+
+The theme is inspired by [Brad Traversy](http://www.traversymedia.com/)'s BThosting theme.
+
+## Setup
+To use this template, your need:
 
 - [NodeJS](https://nodejs.org/en/) (0.12 or greater)
 - [Git](https://git-scm.com/)
