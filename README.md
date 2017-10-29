@@ -4,7 +4,7 @@ A Foundation front-end website theme.
 ![http://perun.gorbich.com](http://perun.gorbich.com/img/demo.jpg)
 
 ## Demo
-[perun.gorbich.com](http://hyperbola.gorbich.com)
+[perun.gorbich.com](http://perun.gorbich.com)
 
 ## Description
 Perun is a front-end theme created from a mock-up. The theme is created with Foundation CSS framework and Sass.
